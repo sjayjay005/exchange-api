@@ -1,0 +1,21 @@
+{
+    "name": "sjayjay005/exchange-api",
+    "description" : "A simple exchange rate API",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "lisense" : "MIT",
+    "authors": [
+        {
+            "name": "sjayjay005",
+            "email": "sjayjay005@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.25.1"
+    }
+
+}
