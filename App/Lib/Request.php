@@ -1,5 +1,13 @@
 <?php
 
+/**
+ * exchange API V1
+ *
+ * @author    sjayjay005
+ * @link      https://github.com/sjayjay005
+ *
+ */
+
 namespace App\Lib;
 
 class Request
